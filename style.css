@@ -59,6 +59,7 @@ body {
   display: flex;
   justify-content: center;
   color: white;
+  opacity: .7;
   font-family: 'Josefin Sans'
 
 }
